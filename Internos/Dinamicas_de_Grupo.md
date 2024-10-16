@@ -1,5 +1,7 @@
 # Dinâmicas de Grupo
 
+![](../Compasso_Unido.webp) 
+
 ## Eventos internos 
 
 ### Restrito a membros do Espaço Compasso
