@@ -24,7 +24,8 @@
    - Sim, mas não é uma refeição, só haverá uns petiscos que tem um valor de ( X ) 
    - Não, o evento não terá uma equipa que irá dinamizar a alimentação.
 6. Precisam de ajuda extra para carregar material?
-   - Quantos voluntários precisam e quais as tarefas que irão precisar dessa ajuda?
+   - Quantos voluntários precisam?
+   - O material é muito pesado?
 7. Precisam de técnico de Som?
    - Sim, a banda não se sente confortável a usar o material de som do **Espaço Compasso**.
    - Não, a banda sente-se confortável a usar o material de som do **Espaço Compasso**.
