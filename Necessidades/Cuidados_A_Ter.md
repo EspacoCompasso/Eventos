@@ -35,4 +35,4 @@
 
 Outros pontos poderão ser acrescentados para serem listados e dessa forma, haver espaço de manobra com algum tempo, informando a equipa de **Staff** sobre as necessidades o mais cedo possível. 
 
-Clicar [aqui](https://github.com/EspacoCompasso/Êventos/blob/main/README.md) para voltar à página inicial
+Clicar [aqui](https://github.com/EspacoCompasso/Eventos/blob/main/README.md) para voltar à página inicial
