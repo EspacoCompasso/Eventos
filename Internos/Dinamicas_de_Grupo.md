@@ -1,6 +1,6 @@
 # Dinâmicas de Grupo
 
-![](./../compasso_unido.webp) 
+![](../compasso_unido.webp) 
 
 ## Eventos internos 
 
