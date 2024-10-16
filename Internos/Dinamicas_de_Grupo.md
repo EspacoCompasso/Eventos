@@ -1,6 +1,6 @@
 # Dinâmicas de Grupo
 
-![](../compasso_unido.webp) 
+![](https://raw.githubusercontent.com/EspacoCompasso/Eventos/refs/heads/main/Internos/compasso_unido.webp) 
 
 ## Eventos internos 
 
