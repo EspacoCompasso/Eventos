@@ -4,7 +4,7 @@
 
 **Nota**: Se fazes parte da equipa que dinamiza os eventos, por favor dá sugestões ora de correção, ora de melhoria deste documento. 
 
-1. Após a confirmação de um evento, informar a equipa de promoção dos eventos nas redes sociais, sobre a data do evento e em que local irá ser realizado.
+1. Após a confirmação de um evento, informar a equipa de comunicação dos eventos nas redes sociais, sobre a data do evento e em que local irá ser realizado.
    - No exterior ( Jardim )
    - No Interior ( Sala de estar - Cozinha )
    - Se o tempo for de chuva, a banda considera cancelar o evento?
